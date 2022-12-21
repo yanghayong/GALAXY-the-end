@@ -129,7 +129,7 @@ body {
 
 .inner {
   height: 500px;
-  background-image: url("/IMAGES/images/slide_bg.png");
+  background-image: url("/images/slide_bg.png");
   background-repeat: no-repeat;
   background-position: center right 30px;
   position: relative;
@@ -278,7 +278,7 @@ body {
 /* banner */
 .banner {
   height: 600px;
-  background-image: url("/IMAGES/images/big.png");
+  background-image: url("/images/big.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
