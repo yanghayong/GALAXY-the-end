@@ -278,7 +278,7 @@ body {
 /* banner */
 .banner {
   height: 600px;
-  background-image: url("/images/big.png");
+  background-image: url("/images/big_banner_bg.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
